@@ -136,7 +136,6 @@ PATCH https://api.example.com/users/{userId}
 ```
 ```bash
 //Content-Type: application/json
-
 {
   "name": "Gojo Satoru",
   "email": gojo2@example.com"
