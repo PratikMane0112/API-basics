@@ -146,6 +146,7 @@ PATCH https://api.example.com/users/{userId}
 
 Deletes data from the server.
 
+
 Example:
 ```http
 DELETE https://api.example.com/users/{userId}
