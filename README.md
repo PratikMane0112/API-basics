@@ -162,7 +162,7 @@ DELETE https://api.example.com/users/{userId}
    - A user-friendly API client.
    - Supports GraphQL, REST, and SOAP.
 
-3. **Swagger**
+3. Swagger
    - Provides a comprehensive suite for API development.
    - Automatically generates API documentation.
 
