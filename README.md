@@ -154,7 +154,7 @@ DELETE https://api.example.com/users/{userId}
 
 ## Platforms for API Handling
 
-1. **Postman**
+1. Postman
    - A popular tool for testing and verifying APIs.
    - Allows for automated testing and documentation.
    
