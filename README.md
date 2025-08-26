@@ -158,7 +158,7 @@ DELETE https://api.example.com/users/{userId}
    - A popular tool for testing and verifying APIs.
    - Allows for automated testing and documentation.
    
-2. **Insomnia**
+2. Insomnia
    - A user-friendly API client.
    - Supports GraphQL, REST, and SOAP.
 
