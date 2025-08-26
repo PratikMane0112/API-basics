@@ -166,7 +166,7 @@ DELETE https://api.example.com/users/{userId}
    - Provides a comprehensive suite for API development.
    - Automatically generates API documentation.
 
-4. **cURL**
+4. cURL
    - A command-line tool for making HTTP requests.
    - Useful for quick API testing.
    
