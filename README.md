@@ -20,7 +20,7 @@ An API (Application Programming Interface) allows different software application
    - Allows clients to request only the data they need.
    - Reduces the number of API calls.
 
-4. **gRPC (Google Remote Procedure Call)**
+4. gRPC (Google Remote Procedure Call
    - Uses HTTP/2 for transport.
    - Supports multiple programming languages.
 
