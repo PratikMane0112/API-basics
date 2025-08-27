@@ -16,7 +16,7 @@ An API (Application Programming Interface) allows different software application
    - Uses XML for messaging.
    - Provides higher security with WS-Security.
 
-3. **GraphQL**
+3. GraphQL
    - Allows clients to request only the data they need.
    - Reduces the number of API calls.
 
