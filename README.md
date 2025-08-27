@@ -8,11 +8,11 @@ An API (Application Programming Interface) allows different software application
 
 ## Types of APIs
 
-1. **REST (Representational State Transfer)**
+1. REST (Representational State Transfer)
    - Uses standard HTTP methods.
    - Stateless and scalable.
    
-2. **SOAP (Simple Object Access Protocol)**
+2. SOAP (Simple Object Access Protocol)
    - Uses XML for messaging.
    - Provides higher security with WS-Security.
 
