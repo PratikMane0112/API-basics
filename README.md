@@ -1,4 +1,4 @@
-# Understanding the basics of API
+# Understanding basics of API
 
 ![api](https://github.com/user-attachments/assets/29620d07-b843-4261-93f9-3348043245e1)
 
